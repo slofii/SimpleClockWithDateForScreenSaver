@@ -1,13 +1,9 @@
 
-
 ## The URL
 
-In this repos case:
+[https://raw.githack.com/slofii/SimpleClockWithDateForScreenSaver/main/index.html](https://raw.githack.com/slofii/SimpleClockWithDateForScreenSaver/main/index.html)
 
-[https://raw.githack.com/slofii/SimpleClockWithDateForScreenSaver/main/index.html](https://raw.githack.com/slofii/SimpleClockWithDateForScreenSaver/main/index.html
-)
 
-Feel free to visit this URL and check out the CLOCK <3
 
 ## Features
 
